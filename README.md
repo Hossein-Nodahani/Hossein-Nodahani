@@ -1,6 +1,6 @@
 
 Skills
-HTML5 CSS3 Javascript ReactJs
+HTML5 CSS3 Javascript 
 
 
 
