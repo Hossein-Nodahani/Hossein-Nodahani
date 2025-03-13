@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>GitHub Profile</title>
-</head>
-<body>
+
     <h1 align="center">👋 Hi, I'm a Frontend Developer</h1>
     <p align="center">Passionate about building responsive and user-friendly interfaces</p>
     
@@ -48,5 +43,3 @@
         <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
         <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     </p>
-</body>
-</html>
