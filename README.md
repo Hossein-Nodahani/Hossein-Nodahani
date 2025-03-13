@@ -1,6 +1,18 @@
-# 👋 Hi, I'm a Frontend Developer
+# 👋 Hi, I'm a Frontend Developer 💻
 
-Passionate about building responsive and user-friendly interfaces
+Passionate about building responsive and user-friendly interfaces. ✨
+
+---
+
+## 📌 About Me
+
+I am a **Frontend Developer** skilled in HTML, CSS, JavaScript, TypeScript, Angular, and React. I specialize in building **responsive, user-friendly interfaces** and have experience migrating old technologies to modern frameworks.
+
+* I enjoy solving problems and working in **collaborative environments**.
+* Passionate about **continuous learning** and contributing to impactful projects.
+* When I'm not coding, you can find me exploring new technologies or sharing my knowledge with the developer community.
+
+---
 
 ## 🚀 Technologies
 
@@ -15,11 +27,9 @@ Passionate about building responsive and user-friendly interfaces
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-## 🛠 Concepts
+---
 
-✅ Responsive Design | ✅ Reactive Programming | ✅ Clean Code | ✅ SOLID | ✅ OOP
-
-## 🛠 Tools
+## 🔧 Tools
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -28,16 +38,13 @@ Passionate about building responsive and user-friendly interfaces
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
-## 📌 About Me
+---
 
-I am a Frontend Developer skilled in HTML, CSS, JavaScript, TypeScript, Angular, and React. I specialize in building responsive, user-friendly interfaces and have experience migrating old technologies to modern frameworks.
-I enjoy solving problems and working in collaborative environments. Passionate about continuous learning and contributing to impactful projects.
-When I'm not coding, you can find me exploring technologies or sharing my knowledge with the developer community.
+## 🛠 Concepts
 
-## GitHub Stats
+✅ **Responsive Design** | ✅ **Reactive Programming** | ✅ **Clean Code** | ✅ **SOLID** | ✅ **OOP**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossein-Nodahani&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossein-Nodahani&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ## 📫 Connect with Me
 
