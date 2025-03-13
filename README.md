@@ -30,11 +30,16 @@ Passionate about building responsive and user-friendly interfaces
 
 ## 📌 About Me
 
-I am a Frontend Developer skilled in HTML, CSS, JavaScript, TypeScript, Angular, and React. I specialize in building responsive, user-friendly interfaces and have experience migrating old technologies to modern frameworks.  
-I enjoy solving problems and working in collaborative environments. Passionate about continuous learning and contributing to impactful projects.  
+I am a Frontend Developer skilled in HTML, CSS, JavaScript, TypeScript, Angular, and React. I specialize in building responsive, user-friendly interfaces and have experience migrating old technologies to modern frameworks.
+I enjoy solving problems and working in collaborative environments. Passionate about continuous learning and contributing to impactful projects.
 When I'm not coding, you can find me exploring technologies or sharing my knowledge with the developer community.
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
