@@ -1,8 +1,5 @@
-# 👋 Hi, I'm a Frontend Developer 💻
+# 👋 Hi, I'm Hossein Nodahani 💻
 
-Passionate about building responsive and user-friendly interfaces. ✨
-
----
 
 ## 📌 About Me
 
