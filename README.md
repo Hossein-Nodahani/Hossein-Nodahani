@@ -39,7 +39,7 @@ I am a **Frontend Developer** skilled in HTML, CSS, JavaScript, TypeScript, Angu
 
 ## 🛠 Concepts
 
-✅ **Responsive Design** | ✅ **Reactive Programming** | ✅ **Clean Code** | ✅ **SOLID** | ✅ **OOP**
+**Responsive Design** | **Reactive Programming** | **Clean Code** | **SOLID** | **OOP**
 
 ---
 
